@@ -18,7 +18,7 @@
     "knex": "^0.14.0",
     "mailgun-js": "^0.13.1",
     "mysql": "^2.15.0",
-    "nodemailer": "^4.4.1",
+    "nodemailer": "^6.4.16",
     "siege": "^0.2.0"
   },
   "devDependencies": {
